@@ -133,20 +133,35 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 ## OUTPUT
 ![OUTPUT](./1.png)
+
 ![OUTPUT](./2.png)
+
 ![OUTPUT](./3.png)
+
 ![OUTPUT](./4.png)
+
 ![OUTPUT](./5.png)
+
 ![OUTPUT](./6.png)
+
 ![OUTPUT](./7.png)
+
 ![OUTPUT](./8.png)
+
 ![OUTPUT](./9.png)
+
 ![OUTPUT](./10.png)
+
 ![OUTPUT](./11.png)
+
 ![OUTPUT](./12.png)
+
 ![OUTPUT](./13.png)
+
 ![OUTPUT](./14.png)
+
 ![OUTPUT](./15.png)
+
 ![OUTPUT](./16.png)
 
 ## RESULT
